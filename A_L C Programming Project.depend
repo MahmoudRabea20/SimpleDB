@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662758149 source:c:\users\top\desktop\embedded course\amit-learning\a_l c programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1723824425 source:e:\embedded systems\amit-learning\c programming project\c programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
